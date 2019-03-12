@@ -1,6 +1,6 @@
 # Ruby and Rails Track
 
-## Introduction
+## Introduction to Ruby
 
 [Build an Address Book in Ruby](https://teamtreehouse.com/library/build-an-address-book-in-ruby)
 
@@ -13,7 +13,7 @@ Ruby Enumerables
 
 [Analyzing Shakespeare](https://github.com/thoughtbot-upcase-exercises/analyzing-shakespeare)
 
-## Rails
+## Introduction to Rails
 
 [Ruby on Rails 5 Basics](https://teamtreehouse.com/library/ruby-on-rails-5-basics)
 
@@ -23,7 +23,7 @@ Ruby Enumerables
 
 [Ruby on Rails Tutorial (Rails 5)](https://www.railstutorial.org/book/)
 
-## Rails Testing
+## Introduction to Rails TDD
 
 [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
 
@@ -34,8 +34,8 @@ Ruby Enumerables
 
 ### Ramsey Solutions
 
-[Dev Standards](https://github.com/lampo/dev-standards/tree/master/ruby)
-[Rubocop](https://github.com/rubocop-hq/rubocop) | [Ramsey Cop](https://github.com/RamseyInHouse/ramsey-cop)
+* [Dev Standards](https://github.com/lampo/dev-standards/tree/master/ruby)
+* [Rubocop](https://github.com/rubocop-hq/rubocop) | [Ramsey Cop](https://github.com/RamseyInHouse/ramsey-cop)
 
 ### Videos
 
@@ -66,6 +66,7 @@ Other
 * [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
 * [Testing Interactions with 3rd-party APIs](https://thoughtbot.com/upcase/videos/testing-interaction-with-3rd-party-apis)
 * [Encapsulation and Global State in Rails](https://thoughtbot.com/upcase/videos/encapsulation-and-global-state-in-rails)
+* [RailsCasts](http://railscasts.com/) - super old, but still some good content
 
 Paid
 
@@ -73,7 +74,6 @@ Paid
 * [RubyTapas](https://www.rubytapas.com/)
 * [Shipping Docker](https://serversforhackers.com/shipping-docker)
 * [Docker Mastery](https://www.udemy.com/docker-mastery/)
-* [RailsCasts](http://railscasts.com/) - super old, but still some good content
 
 ### Books
 
