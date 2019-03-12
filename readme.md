@@ -1,20 +1,10 @@
 # Ruby and Rails Track
 
-## Week 1 - Learn Ruby
-
-Feel free to consume any of the other Treehouse Ruby content as needed to supplement these two courses.
-
-Day 1
+## Introduction
 
 [Build an Address Book in Ruby](https://teamtreehouse.com/library/build-an-address-book-in-ruby)
 
-Day 2, 3
-
-[Building Web Apps with Sinatra](https://teamtreehouse.com/library/building-web-apps-with-sinatra)
-
-Day 4
-
-Ruby Enumerables  
+Ruby Enumerables
 * https://ruby-doc.org/core-2.5.3/Enumerable.html
 * https://www.youtube.com/watch?v=O3fU3gLSvsI
 * https://www.youtube.com/watch?v=UogjRwGl7k0&t=5s
@@ -23,42 +13,28 @@ Ruby Enumerables
 
 [Analyzing Shakespeare](https://github.com/thoughtbot-upcase-exercises/analyzing-shakespeare)
 
-## Week 2 - Rails Basics
-
-Day 1
+## Rails
 
 [Ruby on Rails 5 Basics](https://teamtreehouse.com/library/ruby-on-rails-5-basics)
 
-Day 2, 3
-
 [Rails Routes and Resources](https://teamtreehouse.com/library/rails-routes-and-resources)
-
-Day 4
 
 [Active Record Associations in Rails](https://teamtreehouse.com/library/active-record-associations-in-rails)
 
-## Week 3 - Rails continued
+[Ruby on Rails Tutorial (Rails 5)](https://www.railstutorial.org/book/)
 
-Day 1
+## Rails Testing
 
 [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
 
-Day 2
-
 [Test-Driven Rails](https://thoughtbot.com/upcase/test-driven-rails)
 
-Day 3, ...
-
-[Ruby on Rails Tutorial (Rails 5)](https://www.railstutorial.org/book/)
-
-* Ignore the clould development environment bits and use your own IDE
-* It will increase the difficulty level, but swap minitest for rspec if you want an experience truer to Ramsey
 
 ## Ongoing Resources
 
 ### Ramsey Solutions
 
-[Dev Standards](https://github.com/lampo/dev-standards/tree/master/ruby)  
+[Dev Standards](https://github.com/lampo/dev-standards/tree/master/ruby)
 [Rubocop](https://github.com/rubocop-hq/rubocop) | [Ramsey Cop](https://github.com/RamseyInHouse/ramsey-cop)
 
 ### Videos
